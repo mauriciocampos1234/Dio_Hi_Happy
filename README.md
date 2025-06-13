@@ -18,14 +18,14 @@ Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Inve
 - Web Scraping
 - SEO
 
-##CSS
+# CSS
 - Posicionamentos
 - Pseudo-elementos
 - Pseudo-classes
 - Flexbox
 - Animações
 
-##JavaScript
+# JavaScript
 - Introdução ao JavaScript
 - Manipulação do DOM
 - Introdução ao Firebase
