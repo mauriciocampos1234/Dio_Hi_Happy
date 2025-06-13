@@ -1,0 +1,20 @@
+Instalar o pacote do http-server:
+npm install -g http-server
+
+Iniciar o http-server no console:
+http-server ./
+
+Esquece o http-server, abrimos pelo line server
+
+e no celular com este endereço:
+Para testar no celular:
+http://192.168.1.66:5500/
+
+Comandos (Atalhos no teclado) usados no vscode para facilitar:
+
+Selecione o bloco de código que deseja mover.
+Pressione Alt + ↑ ou Alt + ↓ para subir ou descer.
+
+Duplicar linha/bloco	Shift + Alt + ↓ ou ↑	Copia a linha ou bloco para cima ou para baixo.
+
+ Alternar comentário linha	Ctrl + /	Comenta ou descomenta a linha.
