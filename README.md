@@ -11,6 +11,7 @@
 | Projeto 05 | Lista de Pokemons via API pokeapi - HTML, CSS e JS(API) | [`Desafio_05`](https://github.com/mauriciocampos1234/Dio_Hi_Happy/tree/Desafio_05) |
 | Projeto 06 | Game jyugioh-jo-ken-po - HTML, CSS e JS | [`Desafio_06`](https://github.com/mauriciocampos1234/Dio_Hi_Happy/tree/Desafio_06) |
 | Projeto 07 | Simulador de piano - HTML, CSS e JS | [`Desafio_07`](https://github.com/mauriciocampos1234/Dio_Hi_Happy/tree/Desafio_07) |
+| Projeto 08 | Landing Page - Mundo Invertido - HTML, CSS e JS | [`Desafio_08`](https://github.com/mauriciocampos1234/Dio_Hi_Happy/tree/Desafio_08) |
 
 ...
 
