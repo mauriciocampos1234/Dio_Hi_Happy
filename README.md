@@ -1,14 +1,14 @@
 # Dio_Hi_Happy
 
 
-# 1️⃣ Desafio Construir uma Lista de Pokemons via API pokapi
+# 1️⃣ Desafio Desenvolver um game jyugioh-jo-ken-po
 
-**O Que deve ser utilizado**
+**O Que deve ser utilizado e qual o objetivo**
 
 - HTML
 - CSS
 - JavaScript
-- Consumir a API fazendo a requisição com JS
+
 
 
 
