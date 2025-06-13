@@ -9,7 +9,8 @@
 | Projeto 03 | Classificador de Nível de Herói - HTML, CSS e JS | [`Desafio_03`](https://github.com/mauriciocampos1234/Dio_Hi_Happy/tree/Desafio_03) |
 | Projeto 04 | Jogo da Memória - HTML, CSS e JS | [`Desafio_04`](https://github.com/mauriciocampos1234/Dio_Hi_Happy/tree/Desafio_04) |
 | Projeto 05 | Lista de Pokemons via API pokeapi - HTML, CSS e JS(API) | [`Desafio_05`](https://github.com/mauriciocampos1234/Dio_Hi_Happy/tree/Desafio_05) |
-| Projeto 06 | game jyugioh-jo-ken-po - HTML, CSS e JS | [`Desafio_06`](https://github.com/mauriciocampos1234/Dio_Hi_Happy/tree/Desafio_06) |
+| Projeto 06 | Game jyugioh-jo-ken-po - HTML, CSS e JS | [`Desafio_06`](https://github.com/mauriciocampos1234/Dio_Hi_Happy/tree/Desafio_06) |
+| Projeto 07 | Simulador de piano - HTML, CSS e JS | [`Desafio_07`](https://github.com/mauriciocampos1234/Dio_Hi_Happy/tree/Desafio_07) |
 
 ...
 
