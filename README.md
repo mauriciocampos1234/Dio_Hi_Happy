@@ -1,7 +1,7 @@
 # Dio_Hi_Happy
 
 
-# 1️⃣ Desafio Construir uma Lista de Pokemons via API pokapi
+# 1️⃣ Desafio Construir uma Lista de Pokemons via API pokeapi
 
 **O Que deve ser utilizado**
 
