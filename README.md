@@ -12,6 +12,7 @@
 | Projeto 06 | Game jyugioh-jo-ken-po - HTML, CSS e JS | [`Desafio_06`](https://github.com/mauriciocampos1234/Dio_Hi_Happy/tree/Desafio_06) |
 | Projeto 07 | Simulador de piano - HTML, CSS e JS | [`Desafio_07`](https://github.com/mauriciocampos1234/Dio_Hi_Happy/tree/Desafio_07) |
 | Projeto 08 | Landing Page - Mundo Invertido - HTML, CSS e JS | [`Desafio_08`](https://github.com/mauriciocampos1234/Dio_Hi_Happy/tree/Desafio_08) |
+| Projeto 09 | Multiverso Spider-Man: Criando um Site com HTML, CSS e JavaScript | [`Desafio_09`](https://github.com/mauriciocampos1234/Dio_Hi_Happy/tree/Desafio_09) |
 
 ...
 
