@@ -11,5 +11,5 @@
 - **Objetivo**
 
   Tabalhar e desenvolver a manipulação do DOM na criação de simuladores e jogos por exemplo.
-...
+
 
