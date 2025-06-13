@@ -8,7 +8,8 @@
 - HTML
 - CSS
 - JavaScript
-- Consumir a API fazendo a requisição com JS
+- Dominando o Protocolo HTTP e Integrando com a PokeAPI - Através do JavaScript
+- Consumir a API fazendo a requisição com JS (fetch)
 
 
 
