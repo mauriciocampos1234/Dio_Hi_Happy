@@ -1,7 +1,3 @@
-# Dio_Hi_Happy
-
-## Projetos do Curso
-
 # 1️⃣ Desafio Classificador de nível de Herói
 
 **O Que deve ser utilizado**
